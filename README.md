@@ -152,6 +152,12 @@ In addition, `Models_Comp.ipynb` and `ResCNN-TransGRU_exp1.ipynb` contain output
 
 - **Integration with Other Modalities**: ECombining EEG signals with other physiological or behavioral data (e.g., facial expressions, eye movement) could enhance the overall emotion recognition system.
 
+## Others
+- [Report and literature review thesis](https://drive.google.com/drive/folders/1YgNaDM-EeLweEmtAuCXV2IMaL5h8grT1?usp=drive_link) as well as all other implementation files
+
+- [The initial Model](https://github.com/BluesRockets/EEG-emotion-recognition)
+
+
 ## Contributors
 
 - [Weiyi Hu](https://github.com/Waye) 
