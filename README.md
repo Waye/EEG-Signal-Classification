@@ -155,7 +155,7 @@ In addition, `Models_Comp.ipynb` and `ResCNN-TransGRU_exp1.ipynb` contain output
 ## Contributors
 
 - [Weiyi Hu](https://github.com/Waye) 
-- [Ruobin Tian]() 
+- [Ruobin Tian](https://github.com/LONGTRBLIVE) 
 - [MingHai Liang](https://github.com/BluesRockets) 
 
 ## Supervisor
