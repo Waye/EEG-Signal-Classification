@@ -38,6 +38,12 @@ This project focuses on classifying Electroencephalogram (EEG) signals into diff
 - [Future Improvements](#future-improvements)
 - [Contributors](#contributors)
 
+## Notice
+
+In our paper, the term `FSTS` corresponds to `Multi-CNN-LSTM` in the code, while `A-FSTS` corresponds to `Attention-BiLSTM-CNN`. The model `ResCNN-TransGRU` is not mentioned in the paper but is included in the `BigData-presentation.pptx` alongside `FSTS(Multi-CNN-LSTM)` and `A-FSTS(Attention-BiLSTM-CNN)`. 
+
+The [initial model](https://github.com/BluesRockets/EEG-emotion-recognition) represents the original implementation of the `FSTS(Multi-CNN-LSTM)` model.
+
 ## Overview
 
 This project aims to classify EEG signals into different emotional states using several deep learning models. It provides tools for data analysis, training, evaluating, and comparing models to improve classification performance.
